@@ -228,6 +228,3 @@ Browser akan otomatis terbuka dan menampilkan aplikasi yang siap digunakan.
 -----
 
 Dibuat oleh: **Febriyani Nurhida**
-
-```
-```
