@@ -76,22 +76,18 @@ Untuk menjalankan aplikasi ini di komputermu, ikuti langkah-langkah berikut:
     Aplikasi akan terbuka secara otomatis di browsermu.
 
 ## 📁 Struktur Proyek
----
-.
-
-├── models/
-│   ├── model_knn.pkl
-│   ├── model_nb.pkl
-│   ├── scaler.pkl
-│   ├── encoders.pkl
-│   └── accuracies.pkl
-│
-├── app.py                      # Script utama aplikasi Streamlit
-├── train_model.py              # Script untuk melatih model
-├── requirements.txt            # Daftar dependensi Python
-├── Stroke_Dataset_Trainingcsv.csv   # Dataset untuk training
-├── Stroke_dataset_Testing.csv  # Dataset untuk testing
-└── README.md                   # File ini
+- **`models/`**: Folder berisi semua file hasil pelatihan model.
+  - `model_knn.pkl`
+  - `model_nb.pkl`
+  - `scaler.pkl`
+  - `encoders.pkl`
+  - `accuracies.pkl`
+- **`app.py`**: Script utama untuk menjalankan aplikasi Streamlit.
+- **`train_model.py`**: Script untuk melatih model dari dataset.
+- **`requirements.txt`**: Daftar library Python yang dibutuhkan proyek.
+- **`Stroke_Dataset_Trainingcsv.csv`**: Dataset untuk melatih model.
+- **`Stroke_dataset_Testing.csv`**: Dataset untuk menguji model.
+- **`README.md`**: File dokumentasi proyek.
 
 ---
 Dibuat oleh: **Febriyani Nurhida**
