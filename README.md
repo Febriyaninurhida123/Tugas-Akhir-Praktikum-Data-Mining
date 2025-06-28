@@ -9,8 +9,7 @@ Aplikasi ini dibangun menggunakan Python dengan library Streamlit untuk antarmuk
 ## 📊 Tampilan Aplikasi
 
 Berikut adalah tampilan utama dari aplikasi web yang telah dibangun:
-
-![Tampilan Aplikasi](image_250a1e.jpg)
+![tampilan-laman](https://github.com/user-attachments/assets/1802fb78-e13b-49fa-ab2b-4a87212551f9)
 
 ## ✨ Fitur Utama
 
