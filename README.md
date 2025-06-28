@@ -90,5 +90,6 @@ Untuk menjalankan aplikasi ini di komputermu, ikuti langkah-langkah berikut:
 ├── Stroke_Dataset_Trainingcsv.csv   # Dataset untuk training
 ├── Stroke_dataset_Testing.csv  # Dataset untuk testing
 └── README.md                   # File ini
+
 ---
 Dibuat oleh: **Febriyani Nurhida**
