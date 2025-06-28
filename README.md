@@ -76,7 +76,9 @@ Untuk menjalankan aplikasi ini di komputermu, ikuti langkah-langkah berikut:
     Aplikasi akan terbuka secara otomatis di browsermu.
 
 ## 📁 Struktur Proyek
+---
 .
+
 ├── models/
 │   ├── model_knn.pkl
 │   ├── model_nb.pkl
