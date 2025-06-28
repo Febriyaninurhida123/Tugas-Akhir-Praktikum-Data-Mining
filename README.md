@@ -1,6 +1,6 @@
 # 🧠 Analisis & Prediksi Risiko Stroke dengan Machine Learning
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_APLIKASI_STREAMLIT_ANDA)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prediksi-risiko-stroke.streamlit.app/)
 
 Proyek ini adalah implementasi aplikasi web interaktif untuk tugas akhir mata kuliah Data Mining. Aplikasi ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi stroke dan memprediksi risiko stroke pada pasien menggunakan algoritma machine learning, khususnya **K-Nearest Neighbors (KNN)** dan **Naive Bayes**.
 
